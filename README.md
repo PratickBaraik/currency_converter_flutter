@@ -1,1 +1,1 @@
-Currency converter app which converts USD into INT made with flutter
+Currency converter app which converts USD into INR made with flutter
